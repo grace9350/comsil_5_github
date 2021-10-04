@@ -6,6 +6,7 @@ using namespace std;
 int main(void)
 {
 	cout << "Hello Github!" << endl;
+	cout << "This is comsil_5" << endl;
 	
 	int i,x,y;
 	Array a(10),b(5);
