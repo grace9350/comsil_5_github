@@ -5,7 +5,7 @@ using namespace std;
 
 int main(void)
 {
-	printf("Hello Git!\n");
+	printf("Hello Git!!\n");
 
 	int i,x,y;
 	Array a(10),b(5);
