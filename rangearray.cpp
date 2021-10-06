@@ -4,6 +4,7 @@ using namespace std;
 
 RangeArray::RangeArray(int i,int j):Array(j-i+1)
 {
+	printf("Generate RangeArray\n");
 	low = i;
 	high = j; 
 }
