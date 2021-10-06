@@ -5,6 +5,8 @@ using namespace std;
 
 int main(void)
 {
+	printf("Hello Git!\n");
+
 	int i,x,y;
 	Array a(10),b(5);
 	for(i=0;i<a.length();i++)
